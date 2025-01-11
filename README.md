@@ -108,7 +108,7 @@ Now that you have created your SSH key on Hub, add it to **your** `GitHub` accou
 
 Now that you have set up your `username`, `email`, and `ssh` key, navigate back to the Canvas page, and click the GitHub Classroom link. That link will automatically generate a private copy of this repository for you! (NOTE: It will ask you to authorize GitHub Classroom to have access to your GitHub account, and you should confirm this authorization). Once you have created that repository, you can continue on to the `Clone` instructions in Step 4. Go to the browser tab with your private `ics-46-hw0-<yourgithubid>` repository to continue with the instructions.
 
-### 4 Clone this repository
+### 4 Clone your private GitHub repository to your Hub
 
 Now that you have a private copy of this repository, [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your private `GitHub Classroom` ICS46 (`ics-46-hw0-<yourgithubid>`) repository to your Hub. On Hub, you can clone a GitHub repository by using the command `git clone` and copy-pasting the **SSH link** you get when clicking the green `Code` button. Example below:
 
