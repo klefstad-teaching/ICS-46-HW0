@@ -248,7 +248,7 @@ For all the GTests to work and for the autograder to work as intended you must a
     ├── main.cpp
 ```
 
-1. Create a `src` folder in your root directory
+1. Create a `src` folder in your root directory (if not already created)
 2. Move your `main.cpp` file into the newly created `src` folder 
 3. Click the third button underneath the menu button on the top left named Source Control
    
@@ -276,9 +276,9 @@ This action will pull and push commits from and to "origin/main".
    
 ![Step 3](/assets/9-3.jpg)
 
-## 10. Submit to GradeScope
+## 10. Submit to Gradescope
 
-All submissions are done on [GradeScope](https://www.gradescope.com/).
+All submissions are done on [Gradescope](https://www.gradescope.com/).
 
 On GradeScope, go into your Account Settings, and link your GitHub account to GradeScope.
 
