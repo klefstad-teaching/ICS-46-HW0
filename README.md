@@ -12,7 +12,7 @@ For Homework 0, we set up the accounts and tools needed for this course.
 7. Learn to use `valgrind`.
 8. Create a `Makefile` to compile.
 9. Push changes to git.
-10. Submit to GradeScope
+10. Submit to Gradescope
 
 ## 1. Set up our VPN
 
@@ -46,7 +46,7 @@ Login to the course Hub using this link: [ICS 46 Hub](http://ics46-hub.ics.uci.e
 GitHub is an online storage service for the tool `git`, an industry standard version control tool with many powerful capabilities. For this course, `git` allows you to
 - easily obtain files needed for each Homework from the ICS46 course repository,
 - save your work in your own account on GitHub (in different versions/branches if you choose, so that you can try different approaches or changes without breaking what you were working on before), and
-- easily upload your Homework submissions to GradeScope directly from GitHub.
+- easily upload your Homework submissions to Gradescope directly from GitHub.
 
 This class **requires** the use of a GitHub account, so first create your account at  [GitHub.com](https://github.com/). If you already have a GitHub account, you can use your existing account for this course. Your GitHub account does not need to be linked to your UCI email. 
 
@@ -280,7 +280,7 @@ This action will pull and push commits from and to "origin/main".
 
 All submissions are done on [Gradescope](https://www.gradescope.com/).
 
-On GradeScope, go into your Account Settings, and link your GitHub account to GradeScope.
+On Gradescope, go into your Account Settings, and link your GitHub account to Gradescope.
 
-Then on the course GradeScope, go to the **Homework 0** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
+Then on the course Gradescope, go to the **Homework 0** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
 
